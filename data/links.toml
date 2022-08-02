@@ -240,6 +240,14 @@ siteLink="https://ludwig.guru"
 siteLogo="https://ludwig.guru/favicon.ico"
 siteName="Ludwig"
 [[list.sub.item]]
+description="翻译、写作中英语料库"
+siteLink="http://120.48.4.119/en/"
+siteName="TIO中英双向词典"
+[[list.sub.item]]
+description="翻译、写作中日语料库"
+siteLink="http://120.48.4.119/jp/"
+siteName="TIO中日双向词典"
+[[list.sub.item]]
 description="解析古诗文"
 siteLink="https://www.gushiwen.cn/"
 siteLogo="https://www.gushiwen.cn/favicon.ico"
