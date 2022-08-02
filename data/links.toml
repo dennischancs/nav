@@ -248,6 +248,11 @@ description="翻译、写作中日语料库"
 siteLink="http://120.48.4.119/jp/"
 siteName="TIO中日双向词典"
 [[list.sub.item]]
+description="语料库、搭配、同义词/相近词"
+siteLink="https://skell.sketchengine.eu/#result?f=thesaurus&lang=en&query=writable"
+siteLogo="https://skell.sketchengine.eu/favicon.ico"
+siteName="Skell写作词典"
+[[list.sub.item]]
 description="解析古诗文"
 siteLink="https://www.gushiwen.cn/"
 siteLogo="https://www.gushiwen.cn/favicon.ico"
