@@ -36,6 +36,11 @@ siteLink="https://mubu.com/explore"
 siteLogo="https://www.mubu.com/favicon.ico"
 siteName="幕布精选社区"
 [[list.sub.item]]
+description="Notion全方位的工具平台：笔记、资料库、专案库等"
+siteLink="https://www.notion.so/"
+siteLogo="https://www.notion.so/images/favicon.ico"
+siteName="Notion"
+[[list.sub.item]]
 description="支持视频时间跳转、截图、批注等功能"
 siteLink="http://vnote.littlefly.fun/#/vnote"
 siteLogo="https://gitee.com/dennischan/pic/raw/master/img/202202210919550.png"
